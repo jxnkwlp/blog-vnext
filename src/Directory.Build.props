@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+		<Version>0.1.0</Version> 
+		<Authors>Passingwind</Authors>
+		<Product>Blog</Product>
+	</PropertyGroup>
+	 
+</Project>
